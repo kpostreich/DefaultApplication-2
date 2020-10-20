@@ -1,0 +1,12 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      1   10/19/20 10:52:22:958 PDT   10/19/20 10:52:22:959 PDT com.ibm.ws.webcontainer.exception.WebAppNotLoadedException com.ibm.ws.webcontainer.Webcontainer 732
+                                                                            - /home/ibmdemo/DefaultApplication/sample.DefaultApplication/modernized/DefaultApplication-ear/target/liberty/wlp/usr/servers/DefaultApplicationServer/logs/ffdc/ffdc_20.10.19_10.52.22.0.log
+     1      1   10/19/20 10:52:23:209 PDT   10/19/20 10:52:23:209 PDT com.ibm.ws.webcontainer.exception.WebAppNotLoadedException com.ibm.ws.webcontainer.osgi.WebContainer startModule
+                                                                            - /home/ibmdemo/DefaultApplication/sample.DefaultApplication/modernized/DefaultApplication-ear/target/liberty/wlp/usr/servers/DefaultApplicationServer/logs/ffdc/ffdc_20.10.19_10.52.23.0.log
+     2      1   10/19/20 10:52:23:247 PDT   10/19/20 10:52:23:247 PDT com.ibm.ws.container.service.state.StateChangeException com.ibm.ws.app.manager.module.internal.ModuleHandlerBase 100
+                                                                            - /home/ibmdemo/DefaultApplication/sample.DefaultApplication/modernized/DefaultApplication-ear/target/liberty/wlp/usr/servers/DefaultApplicationServer/logs/ffdc/ffdc_20.10.19_10.52.23.1.log
+     3      1   10/19/20 10:52:23:570 PDT   10/19/20 10:52:23:570 PDT java.lang.NullPointerException com.ibm.ws.container.service.state.internal.ApplicationStateManager 72
+                                                                            - /home/ibmdemo/DefaultApplication/sample.DefaultApplication/modernized/DefaultApplication-ear/target/liberty/wlp/usr/servers/DefaultApplicationServer/logs/ffdc/ffdc_20.10.19_10.52.23.2.log
+------+------+---------------------------+---------------------------+---------------------------

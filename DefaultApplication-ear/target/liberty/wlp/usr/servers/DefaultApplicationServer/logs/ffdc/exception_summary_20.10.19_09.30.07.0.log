@@ -1,0 +1,6 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      1    10/19/20 9:30:07:896 PDT    10/19/20 9:30:07:896 PDT javax.servlet.ServletException com.ibm.ws.webcontainer.filter.FilterInstanceWrapper.doFilter 144
+                                                                            - /home/ibmdemo/DefaultApplication/sample.DefaultApplication/modernized/DefaultApplication-ear/target/liberty/wlp/usr/servers/DefaultApplicationServer/logs/ffdc/ffdc_20.10.19_09.30.07.0.log
+------+------+---------------------------+---------------------------+---------------------------
